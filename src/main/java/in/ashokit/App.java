@@ -8,6 +8,7 @@ import in.ashokit.security.service.PasswordService;
  */
 public class App 
 {
+int a=10;
     public static void main( String[] args )
     {
     	PasswordService service = new PasswordService();
